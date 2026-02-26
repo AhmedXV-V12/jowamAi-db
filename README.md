@@ -1,16 +1,16 @@
 # jowamAi-db
 
-# 1. What's jowamAi-db
+## 1. What's jowamAi-db
 It's Database for model _jowamAi_ to train the model on this data 
 
-# 2. What's the License
+## 2. What's the License
 The license is specific to (```AhmedXV-V12```).
 You may use the data under the following clear conditions:
 1. You must state that this data is from ```AhmedXV-V12```
 2. It may be used for commercial purposes.
 3. We are not responsible if the data you have taken is modified. You bear full responsibility for this.
 
-# 3. how to use this ```database```
+## 3. how to use this ```database```
 you have 2 methods 
 *1-*
 use the [_raw url_](https://raw.githubusercontent.com/AhmedXV-V12/jowamAi-db/main/database.json) in your code :
