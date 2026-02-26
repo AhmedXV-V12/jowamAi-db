@@ -1,4 +1,4 @@
-## jowamAi-db
+# jowamAi-db
 
 # 1. What's jowamAi-db
 It's Database for model _jowamAi_ to train the model on this data 
