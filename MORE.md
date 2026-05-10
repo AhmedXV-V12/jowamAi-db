@@ -24,3 +24,8 @@
 - Added Geography, CS, Chemistry and Logic data.
 - Current count: 10637.
 
+### 2026-05-10 (Heartbeat Expansion)
+- Added Biology, CS, and extended Math patterns.
+- Maintained dry tone.
+- Current count: 11055.
+
