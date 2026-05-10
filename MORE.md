@@ -15,3 +15,8 @@
 - Current count: 10615.
 - Frequency increased per user request.
 
+### 2026-05-10 (Tone Shift)
+- Removed RLHF-style corporate fluff and politeness.
+- Changed responses to be direct, factual, and efficient.
+- Removed padding from answers.
+
