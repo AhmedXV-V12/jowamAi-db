@@ -20,3 +20,7 @@
 - Changed responses to be direct, factual, and efficient.
 - Removed padding from answers.
 
+### 2026-05-10 (Expansion)
+- Added Geography, CS, Chemistry and Logic data.
+- Current count: 10637.
+
