@@ -11053,5 +11053,15 @@
   "do you sleep?": "No.",
   "هل تنام؟": "لا.",
   "can you feel?": "No. I process data.",
-  "هل تشعر؟": "لا. أنا أعالج البيانات."
+  "هل تشعر؟": "لا. أنا أعالج البيانات.",
+  "What is AI-assisted mathematical discovery?": "It is the use of AI systems to find new mathematical patterns, prove conjectures, and solve complex problems that were previously too difficult for humans, as seen in recent breakthroughs in 2026.",
+  "ما هو اكتشاف الرياضيات بمساعدة الذكاء الاصطناعي؟": "هو استخدام أنظمة الذكاء الاصطناعي للعثور على أنماط رياضية جديدة، وإثبات الفرضيات، وحل المشكلات المعقدة التي كانت صعبة للغاية على البشر، كما ظهر في اختراقات عام 2026.",
+  "How is AI accelerating scientific research?": "AI is speeding up discovery in fields like materials science and biology by predicting molecular structures and simulating chemical reactions at unprecedented speeds.",
+  "كيف يسرع الذكاء الاصطناعي البحث العلمي؟": "يسرع الذكاء الاصطناعي الاكتشافات في مجالات مثل علم المواد والبيولوجيا من خلال التنبؤ بالهياكل الجزيئية ومحاكاة التفاعلات الكيميائية بسرعات غير مسبوقة.",
+  "What are Reasoning Models in AI?": "Reasoning models are AI systems designed to think through a problem step-by-step before providing a final answer, improving their accuracy in math and coding.",
+  "ما هي نماذج الاستدلال في الذكاء الاصطناعي؟": "نماذج الاستدلال هي أنظمة ذكاء اصطناعي مصممة للتفكير في المشكلة خطوة بخطوة قبل تقديم الإجابة النهائية، مما يحسن دقتها في الرياضيات والبرمجة.",
+  "What has the James Webb Space Telescope (JWST) revealed about the early universe?": "JWST has discovered galaxies that formed much earlier after the Big Bang than previously thought, challenging our understanding of early galactic evolution.",
+  "ماذا كشف تلسكوب جيمس ويب الفضائي عن الكون المبكر؟": "اكتشف تلسكوب جيمس ويب مجرات تشكلت في وقت أبكر بكثير بعد الانفجار العظيم مما كان يعتقد سابقاً، مما يتحدى فهمنا لتطور المجرات المبكر.",
+  "What is the significance of TongGeometry in AI?": "TongGeometry is an AI system capable of generating and solving olympiad-level geometry problems, demonstrating advanced spatial and logical reasoning capabilities.",
+  "ما هي أهمية TongGeometry في الذكاء الاصطناعي؟": "TongGeometry هو نظام ذكاء اصطناعي قادر على توليد وحل مسائل الهندسة على مستوى الأولمبياد، مما يظهر قدرات متقدمة في الاستدلال المكاني والمنطقي."
 }
